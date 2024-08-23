@@ -1,0 +1,55 @@
+header{
+
+    font-size:45px;
+
+    color:black;
+
+    background: rgb(177, 104, 45)
+
+   
+
+}
+
+body{
+
+    background: rgb(243, 128, 34);
+
+    color: black;
+
+}
+
+section{
+
+    background: rgb(160, 71, 36);
+
+}
+
+img{
+
+    height: 200px;
+
+}
+
+.seletor{
+
+    display: flex;
+
+overflow-x: auto;
+
+gap: 20px
+
+}
+
+.seletor img{
+
+    opacity: 0.5;
+
+}
+
+
+
+.seletor img:hover{
+
+    opacity: 1.0;
+
+}
